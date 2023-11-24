@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mirkosocialmediamarketing</title>
+  <!-- Link a Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="PortfolioFinale.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">Il mio sito web</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="ChiSonoPortfolio.html">Chi sono</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contatti</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <section class="section">
+    <div class="image-container">
+      <img src="FotoHomeSitoPortfolio.png" alt="Vista di Milano">
+    </div>
+    
+    <div class="text-container">
+      <h2>Cosa faccio</h2>
+      <p>Il Social Media Manager è il navigatore digitale dell'immagine aziendale. Creativo e strategico, guida l'azienda attraverso il labirinto dei social media, creando connessioni significative e amplificando la presenza online. Con abilità comunicative raffinate, gestisce il dialogo virtuale, costruendo brand autentici e coinvolgenti nell'oceano digitale.</p>
+    </div>
+    
+    <section class="aree">
+      <h2>Aree di competenza</h2>
+      <ul>
+        <li>
+          <h3>Sviluppo web</h3>
+          <ul>
+            <li>WordPress</li>
+            <li>React</li>
+            <li>5+ anni di esperienza</li>
+          </ul>
+        </li>
+        <li>
+          <h3>Design web</h3>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+          </ul>
+        </li>
+        <li>
+          <h3>Grafica web</h3>
+          <ul>
+            <li>Adobe Photoshop</li>
+            <li>Adobe Illustrator</li>
+            <li>Adobe InDesign</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    
+    <p>La gestione dei social media è un elemento cruciale per il successo di qualsiasi azienda nell'era digitale. Un efficace copywriter per i social media si impegna a creare contenuti coinvolgenti, pertinenti e autentici per attirare l'attenzione del pubblico target...</p>
+  
+   
+  </section>
+
+  <div class="lavori">
+    <h2>Cosa possiamo fare con HTML</h2>
+    <img src="HtmlPortfolio.png" alt="Cosa si può fare con HTML">
+    <p>Con HTML, si apre la porta a un mondo di possibilità nella creazione di pagine web dinamiche e coinvolgenti...</p>
+    
+    <h2>Come creare la tua strategia vincente</h2>
+    <img src="Advertising.png" alt="Advertising">
+    <p>Per creare pubblicità vincenti, è essenziale unire creatività, strategia e comprensione del pubblico di destinazione...</p>
+    </div>
+   <div class="canva">
+    <h2>Come utilizzare Canva</h2>
+    <p>Canva si presenta come un alleato indispensabile per chiunque desideri creare contenuti visivi accattivanti...</p>
+    <img src="CanvasitoPortfolio.png" alt="Come utilizzare Canva">
+  </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
