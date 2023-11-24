@@ -1,0 +1,80 @@
+
+body, h1, h2, h3, p, ul {
+  margin: 1em;
+  padding: 0;
+}
+
+
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+
+.container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin: 20px 0;
+}
+
+.lavori, .canva {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.social-link {
+  color: #fff;
+  margin-right: 10px;
+}
+
+
+.image-container img {
+  max-width: 90%;
+  height: auto;
+  margin: 1em;;
+}
+
+
+h2, h3 {
+  color: #242527;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-color: #fff;
+}
+
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #007bff;
+}
+
+
+p {
+  margin-bottom: 15px;
+}
+
+.image{
+  margin-left: 1em;
+}
